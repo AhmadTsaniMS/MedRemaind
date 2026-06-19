@@ -1,0 +1,5 @@
+w,2,2x setelah makan
+r,4,2x sehari
+washi,2,2x Sehari
+Dyta,1,3x Sehari
+wada,2,3x Sehari
